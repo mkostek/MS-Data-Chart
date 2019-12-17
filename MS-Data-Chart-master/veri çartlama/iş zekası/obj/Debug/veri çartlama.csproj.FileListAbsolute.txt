@@ -1,0 +1,16 @@
+C:\Users\Asus\Documents\SharpDevelop Projects\veri çartlama\iş zekası\bin\Debug\veri çartlama.exe.config
+C:\Users\Asus\Documents\SharpDevelop Projects\veri çartlama\iş zekası\bin\Debug\veri çartlama.exe
+C:\Users\Asus\Documents\SharpDevelop Projects\veri çartlama\iş zekası\bin\Debug\veri çartlama.pdb
+C:\Users\Asus\Documents\SharpDevelop Projects\veri çartlama\iş zekası\obj\Debug\veri çartlama.csprojResolveAssemblyReference.cache
+C:\Users\Asus\Documents\SharpDevelop Projects\veri çartlama\iş zekası\obj\Debug\iş_zekası.MainForm.resources
+C:\Users\Asus\Documents\SharpDevelop Projects\veri çartlama\iş zekası\obj\Debug\veri çartlama.csproj.GenerateResource.Cache
+C:\Users\Asus\Documents\SharpDevelop Projects\veri çartlama\iş zekası\obj\Debug\veri çartlama.exe
+C:\Users\Asus\Documents\SharpDevelop Projects\veri çartlama\iş zekası\obj\Debug\veri çartlama.pdb
+C:\Users\MERT\Desktop\MS-Data-Chart-master\veri çartlama\iş zekası\bin\Debug\veri çartlama.exe.config
+C:\Users\MERT\Desktop\MS-Data-Chart-master\veri çartlama\iş zekası\obj\Debug\veri çartlama.exe
+C:\Users\MERT\Desktop\MS-Data-Chart-master\veri çartlama\iş zekası\obj\Debug\veri çartlama.pdb
+C:\Users\MERT\Desktop\MS-Data-Chart-master\veri çartlama\iş zekası\bin\Debug\veri çartlama.exe
+C:\Users\MERT\Desktop\MS-Data-Chart-master\veri çartlama\iş zekası\bin\Debug\veri çartlama.pdb
+C:\Users\MERT\Desktop\MS-Data-Chart-master\veri çartlama\iş zekası\obj\Debug\veri çartlama.csprojResolveAssemblyReference.cache
+C:\Users\MERT\Desktop\MS-Data-Chart-master\veri çartlama\iş zekası\obj\Debug\iş_zekası.MainForm.resources
+C:\Users\MERT\Desktop\MS-Data-Chart-master\veri çartlama\iş zekası\obj\Debug\veri çartlama.csproj.GenerateResource.Cache
